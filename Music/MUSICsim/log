@@ -1,0 +1,14 @@
+music-sr.o: In function `music_':
+music-sr.f:(.text+0x127b): undefined reference to `ranlux_'
+music-sr.f:(.text+0x2485): undefined reference to `ranlux_'
+music-sr.f:(.text+0x3c43): undefined reference to `ranlux_'
+
+music-sr.f:(.text+0x5223): undefined reference to `ranlux_'
+music-sr.o:music-sr.f:(.text+0x6253): more undefined references to `ranlux_' follow
+
+music-sr.o: In function `defl_':
+music-sr.o: In function `multiple_':
+music-sr.f:(.text+0x74c9): undefined reference to `corset_'
+music-sr.f:(.text+0x74e2): undefined reference to `corgen_'
+music-sr.f:(.text+0x7513): undefined reference to `corgen_'
+
