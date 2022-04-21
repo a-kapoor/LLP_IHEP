@@ -3,7 +3,7 @@
 Get and setup
 ```console
 git clone https://github.com/a-kapoor/LLP_IHEP.git
-cd LLP_IHEP
+cd LLP_IHEP/Music/
 . setup.sh
 ```
 
